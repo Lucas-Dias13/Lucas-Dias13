@@ -13,12 +13,6 @@
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/lucasdiasads)  
 - [GitHub](https://github.com/Lucas-Dias13)  
