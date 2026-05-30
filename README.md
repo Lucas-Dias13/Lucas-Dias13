@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Lucas Dias
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)
-💻 Apaixonado por desenvolvimento web e software
-🚀 Em busca de oportunidade de estágio em TI
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)  
+💻 Apaixonado por desenvolvimento web e software  
+🚀 Em busca de oportunidade de estágio em TI  
 
 ---
 
@@ -22,8 +22,8 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=dark)
 
 ---
 
