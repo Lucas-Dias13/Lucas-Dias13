@@ -22,9 +22,8 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=radical&v=1)
 
 ---
 
