@@ -17,13 +17,7 @@
 ---
 
 ## 🚀 Projetos
-- [Jogo da velha](https://github.com/Lucas-Dias13/Jogo-da-Velha) – Clássico jogo da velha, desenvolvido em JavaScript, HTML e CSS
-
----
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-Dias13&show_icons=true&theme=radical&v=1)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-Dias13&layout=compact&theme=radical&v=1)
+- [Jogo da velha](https://github.com/Lucas-Dias13/Jogo-da-Velha) – Clássico jogo da velha, desenvolvido em JavaScript, HTML e CSS  
 
 ---
 
