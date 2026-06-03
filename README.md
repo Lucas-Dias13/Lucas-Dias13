@@ -4,8 +4,6 @@
 💻 Apaixonado por desenvolvimento web e software  
 🚀 Em busca de oportunidade de estágio em TI  
 
----
-
 ## 🛠️ Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,12 +12,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 🚀 Projetos
 - [Jogo da velha](https://github.com/Lucas-Dias13/Jogo-da-Velha) – Clássico jogo da velha, desenvolvido em JavaScript, HTML e CSS  
-
----
+- [E-commerce Supermercado](https://github.com/Lucas-Dias13/Supermercado-Tamaisbarato-CRUD) - Simulação de um e-commerce de supermercado, desenvolvido em React.js  
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
